@@ -1,4 +1,13 @@
+https://ortop.org/wiki/index.php?title=Programming_Using_Scratch-based_Languages
+https://ortop.org/wiki/index.php?title=FIRST_LEGO_League_Challenge_Coaching_Techniques
+
+WRO
+https://www.worldrobotolympiad.de/website/docs/wro/WRO-RM-Material-Set.pdf
+
+
 Lego Spike Prime - Official 
+https://education.lego.com/en-us/product-resources/spike-prime/downloads/building-instructions
+
 https://education.lego.com/en-us/lessons/prime-training-trackers/this-is-uphill
 https://education.lego.com/v3/assets/blt293eea581807678a/bltfca70d091e5c8caa/5f3103a848bdc47f3f1e6a83/45678_biker_book1.pdf
 https://education.lego.com/v3/assets/blt293eea581807678a/blte4f14703699d8b0a/5f3103a548bdc47f3f1e6a7f/45678_biker_book2.pdf
